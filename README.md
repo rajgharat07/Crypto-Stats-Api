@@ -104,10 +104,10 @@ The job stores this data in the MongoDB database.
 
 <!-- ## Deployment -->
 
-<!-- ## Example Deployment
+## Example Deployment
 If deployed, you can access the APIs via:
-- `https://your-deployment-url/api/stats?coin=bitcoin`
-- `https://your-deployment-url/api/deviation?coin=bitcoin` -->
+- `https://crypto-stats-api.onrender.com/api/stats?coin=bitcoin`
+- `https://crypto-stats-api.onrender.com/api/deviation?coin=bitcoin`
 
 
 ## Acknowledgments
