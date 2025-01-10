@@ -102,7 +102,7 @@ A background job runs every 2 hours using **node-cron**, fetching the following 
 
 The job stores this data in the MongoDB database.
 
-<!-- ## Deployment -->
+## Deployment
 
 ## Example Deployment
 If deployed, you can access the APIs via:
