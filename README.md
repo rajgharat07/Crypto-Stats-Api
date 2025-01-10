@@ -26,7 +26,7 @@ This is a server-side application built using **Node.js** and **MongoDB** that f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-stats-api.git
+   git clone https://github.com/rajgharat07/Crypto-Stats-Api.git
    cd crypto-stats-api
    ```
 
